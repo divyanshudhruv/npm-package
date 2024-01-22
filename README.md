@@ -1,3 +1,5 @@
 ﻿# npm-package
 
-😅 Repository for sample npm packages
+<br>
+
+> 😅 Repository for sample npm packages
