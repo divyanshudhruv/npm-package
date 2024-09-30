@@ -1,1 +1,5 @@
-config.js
+
+.env*
+.flaskenv*
+!.env.project
+!.env.vault
