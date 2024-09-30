@@ -1,4 +1,3 @@
+require("dotenv").config();
 
-import {a} from "./pass.js";
-
-document.getElementById("heading").innerHTML = a;
+console.log(process.env.PASS_KEY);
